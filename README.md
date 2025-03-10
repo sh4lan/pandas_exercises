@@ -1,1 +1,1 @@
-# pandas_exercises
+# Pandas exercises
